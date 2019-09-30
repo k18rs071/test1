@@ -1,0 +1,31 @@
+﻿<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<title>竹内智輝の自己紹介</title>
+</head>
+<body>
+<h1>竹内智輝</h1>
+<p>九州産業大学　理工学部　情報科学科　１年ｂ組　18RS071</p>
+<h2>プロフィール</h2>
+<h3>出身：</h3>　
+<ul>
+<li>福岡県北九州市</li>
+<li>夏の祭りが盛んだよ</li>
+</ul>
+<h3>趣味:</h3>
+<ul>
+<li>カードゲーム（遊戯王、デュエマ）</li>
+<li>ゲーム</li>
+<li>動画鑑賞（youtube)</li>
+</ul>
+<h2>お気に入りのページ</h2>
+<ol>
+<li><a href="https://www.youtube.com/?gl=JP&hl=ja">youtube</a></li>
+<li><a href="http://www.yugioh-card.com/japan/">遊戯王</a></li>
+<li><a href="https://colopl.co.jp/shironekoproject/">白猫プロジェクト</a></li>
+</ol>
+<hr>
+<p><small>&copy;2018　竹内智輝</small></p>
+</body>
+</html>
